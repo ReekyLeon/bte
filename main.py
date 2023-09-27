@@ -16,4 +16,4 @@ bot.load_extension("cogs.avatar")
 bot.load_extension("cogs.select-menu")
 bot.load_extension("cogs.buttons-role")
 
-bot.run('OTE5NTQ5NDk4NjQzMDc5MTc5.G1mnwS.t_NxyoYnMi7putpP4IvZCvqEwPTt33adgugRA0')
+bot.run('token')
